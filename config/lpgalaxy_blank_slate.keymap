@@ -51,7 +51,7 @@
  &trans &trans &trans &trans &trans &trans &kp MINUS &kp EQUAL &trans &kp DEL &kp PSCRN &trans
  &trans &trans &trans &trans &trans &trans &kp LBKT &kp RBKT &kp BSLH &trans &trans &trans
  &trans &trans &trans &trans &trans &trans &kp QUOT &trans &trans &trans &trans &trans
- &trans &trans &trans &trans &trans &trans &trans &trans &kp MPLY &kp VOLD &kp VOLU &kp MFFD
+ &trans &trans &trans &trans &trans &trans &trans &trans &kp C_MPLY &kp C_VOLD &kp C_VOLU &kp C_MFFD
             >;
         };
 
