@@ -16,6 +16,8 @@
 #define L_NAV  3
 #define L_PG   4
 
+#define BT(n) BT_SEL n
+
 / {
     keymap {
         compatible = "zmk,keymap";
